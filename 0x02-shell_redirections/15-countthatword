@@ -1,0 +1,2 @@
+#!/bin/bash
+qgrep -C "bin" /etc/passwd
